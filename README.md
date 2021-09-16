@@ -1,7 +1,7 @@
 # Twitter Clone
 
 
-## Working url: 
+## Working url: https://twitter-clonetypescript.netlify.app/
 
 
 ## Built With:
